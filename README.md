@@ -28,7 +28,7 @@ When parsing a BCA compressed string, it constantly adds the appropriate pixel t
 
 An example of a BCA compressed string is as follows:
 ```
-0-40:3:20:
+0-40:3-20:
 ```
 This means 40 instances of colour 0, and 20 instances of colour 3.
 
